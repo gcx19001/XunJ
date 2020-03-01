@@ -1,5 +1,7 @@
 {
     "addressRegion":"天津,重庆,浙江,江苏,湖南,四川,山西,河南,湖北,黑龙江,辽宁,河北,山东,安徽,福建,广西,贵州,云南,江西,吉林,甘肃,陕西,宁夏,内蒙古,海南,西藏,青海,新疆,台湾,香港,澳门",
     "continueWord":"免费试用",
-    "firstPagePop":"NO"
+    "firstPagePop":"NO",
+    "vvipPagePop":"",
+    "firstPageProductIdentifier":"com.geshuyan.vip.year"
 }
